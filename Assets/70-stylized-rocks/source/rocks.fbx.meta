@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: c52ed35f22ed3ea40a3083b3a148bf29
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_01
+    second: {fileID: 2100000, guid: 267bf0214116e2e458500f750a7e21c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_02
+    second: {fileID: 2100000, guid: 0e9ec1df99f7ff04fa9bdca0c1381384, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_03
+    second: {fileID: 2100000, guid: 8795ea154ec977043ae21a7898b12dfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_04
+    second: {fileID: 2100000, guid: f42e5a89e1546cc458669d1e7deb38ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_05
+    second: {fileID: 2100000, guid: 5436f5e2a766d924cb240ee57dd222e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_06
+    second: {fileID: 2100000, guid: 9e6ca020b6564fb40aad928c662b085b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_07
+    second: {fileID: 2100000, guid: f4ada49cf72790842baa621415eef286, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_08
+    second: {fileID: 2100000, guid: 89ad52a0f8cd4ef438cf1628e50d7c5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_09
+    second: {fileID: 2100000, guid: 07bb6e5683e79244290c3dd646c6734b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_10
+    second: {fileID: 2100000, guid: 0737e6073b7c2fa41b2ef396b0ca8b8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_11
+    second: {fileID: 2100000, guid: 4542e53baa6f03144ac06cce4c326fb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_12
+    second: {fileID: 2100000, guid: be83f626e1df75d498ad249d34f19c13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_13
+    second: {fileID: 2100000, guid: b623c44e793e9a442bebe40f0d0830ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_14
+    second: {fileID: 2100000, guid: f093c6d0c448dee4993091a9a41a51f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_15
+    second: {fileID: 2100000, guid: 4b86a4f95429f604880854ad99c1392f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_16
+    second: {fileID: 2100000, guid: 176caa89869ea5747af81d0f1c3aa9b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_17
+    second: {fileID: 2100000, guid: 5428e83f906d71c42b46afb7bfe352c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_18
+    second: {fileID: 2100000, guid: 3523604ca650cbc4bb0549a85d24345c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_19
+    second: {fileID: 2100000, guid: 1190d9cbe61883342b1e6c0463ae75db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_20
+    second: {fileID: 2100000, guid: 9084c44592eff4d45bec7b2fc65cf640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_21
+    second: {fileID: 2100000, guid: 94de573599c900845915344b8e21e7b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_22
+    second: {fileID: 2100000, guid: 0c34af6f22eca2745ad36e85baeac613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_23
+    second: {fileID: 2100000, guid: 0670c0a1e81858c4c9e029a209bdc434, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_24
+    second: {fileID: 2100000, guid: b661de9bdd26d034989eed15be880108, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_25
+    second: {fileID: 2100000, guid: 266e2c3d144a8d5428981958a4c21e38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_26
+    second: {fileID: 2100000, guid: 9f077ff68d372c545a8de43d0a8bd740, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_27
+    second: {fileID: 2100000, guid: 1be3c5feb6c86bd4aa1d0c4710b0c474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_28
+    second: {fileID: 2100000, guid: 9d140abf4a0a855439a6efb2840c977f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_29
+    second: {fileID: 2100000, guid: 462de73384aadaf4dacc54169e8b1b3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_30
+    second: {fileID: 2100000, guid: 1d63e760a18864848aa065ffa61adb25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_31
+    second: {fileID: 2100000, guid: dbbbbfd28facb7e45b2fd3681e6a4905, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_32
+    second: {fileID: 2100000, guid: 87d71a647fb8eb44bbe05ef96aef0350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_33
+    second: {fileID: 2100000, guid: f5e97b6397ab322478e3ad1deea33c16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_34
+    second: {fileID: 2100000, guid: 964817b17a7d94c4baf50f64c123161f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_35
+    second: {fileID: 2100000, guid: 68c706f708698704da45d4663ed91daf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_36
+    second: {fileID: 2100000, guid: 184c6c67420b2d746839e940c7f5bfaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_37
+    second: {fileID: 2100000, guid: e3ce5ae1fae1b5e46970ccd2f11fab25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_38
+    second: {fileID: 2100000, guid: 3509f72d2ac96d547b7293c99459d1e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_39
+    second: {fileID: 2100000, guid: f59250249c34b924db3e5fcfd940e66a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_40
+    second: {fileID: 2100000, guid: f57d961ae9f54a541bd22ce37ce972b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_41
+    second: {fileID: 2100000, guid: 024deb77fa6d1fb42b53bdb9d36fa73b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_42
+    second: {fileID: 2100000, guid: 51920ee070e43ed45863816c7f008d48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_43
+    second: {fileID: 2100000, guid: f3c9cfda2ba92dd419626b7d0c38969c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_44
+    second: {fileID: 2100000, guid: 8ad38f9330d716f46bd9ee2f2b1028d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_45
+    second: {fileID: 2100000, guid: 582d9739238e8a14fb9092aa292718ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_46
+    second: {fileID: 2100000, guid: 149ee41d10fde9e45b141ad419f4252b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_47
+    second: {fileID: 2100000, guid: fad033ef9656a684e9c2b6df93841904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_48
+    second: {fileID: 2100000, guid: da96ff0fbc7a34249b6afe6c7f4bc979, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_49
+    second: {fileID: 2100000, guid: f7793b68f53ba7042bd9272cacaafb0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_50
+    second: {fileID: 2100000, guid: a118a1a19d6802848a22c79fe50c281a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_51
+    second: {fileID: 2100000, guid: 83fc4070db2bf4c489bce946249b8a85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_52
+    second: {fileID: 2100000, guid: ff0463f126a70114a91963671a669a39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_53
+    second: {fileID: 2100000, guid: 8e47f0abc1bd7b24989946830c2c7335, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_54
+    second: {fileID: 2100000, guid: 2732735896170a44d9d9720fcdd158de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_55
+    second: {fileID: 2100000, guid: b108a533ee4acf141b5d956634bf9453, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_56
+    second: {fileID: 2100000, guid: 812534e939aba12408f738576ad145e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_57
+    second: {fileID: 2100000, guid: 4dafdb46fd23b754d93612d3ed3ac8b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_58
+    second: {fileID: 2100000, guid: 3b5eceee4604d1e4484dd65a4846c0ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_59
+    second: {fileID: 2100000, guid: 2efe129e8f6669d46b6dc7ce92719e9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_60
+    second: {fileID: 2100000, guid: 23b6d6a691299ff498a77539673848b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_61
+    second: {fileID: 2100000, guid: 429c507c0855b474db2c372f2717e17c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_62
+    second: {fileID: 2100000, guid: 67b4e76d3fea8464180533558a8eb0e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_63
+    second: {fileID: 2100000, guid: fb5e490de1fc04842813bd8d36cbf094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_64
+    second: {fileID: 2100000, guid: 13532a2dc4e1b7047a9190cceb537cc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_65
+    second: {fileID: 2100000, guid: ae5e4c87ffc171f44a13b4fe994a961a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_66
+    second: {fileID: 2100000, guid: 0296429042d79234da5e207e6f9f6d3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_67
+    second: {fileID: 2100000, guid: 80997149b77ef0645b2b137617643330, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_68
+    second: {fileID: 2100000, guid: 130205c3870fb3c449408eb06411e5f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_69
+    second: {fileID: 2100000, guid: 6471f01b7cabd704c8185918326ca422, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stylized_rock_70
+    second: {fileID: 2100000, guid: 506aa41b54ce8214d8e8e9ff5a719139, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 1
+    second: {fileID: 2800000, guid: f0e4ed8d89c3cad4bac8299fc8699c55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 10
+    second: {fileID: 2800000, guid: c5b0f1f03a1d305459c5106431720f8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 11
+    second: {fileID: 2800000, guid: 2f580fa96b0d5e844bceb74d7300097a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 12
+    second: {fileID: 2800000, guid: 459dd59b131a74e4aa6a310092679400, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 13
+    second: {fileID: 2800000, guid: a3db61c301e69cc4caa1d2bc639f6152, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 14
+    second: {fileID: 2800000, guid: dd7575e9b8ae0e04a8da368ddab70406, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 15
+    second: {fileID: 2800000, guid: 5e936d7be36fcb54490611fc5b77656d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 16
+    second: {fileID: 2800000, guid: 0b10c7119c92bd54bbb7b368f0dbb852, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 17
+    second: {fileID: 2800000, guid: 2573255f0eb29544ca492b90b025354b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 18
+    second: {fileID: 2800000, guid: 3643a695486966e4e8959270d49163c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 19
+    second: {fileID: 2800000, guid: 9fc4131c1694b4e4fab9817450e1af7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 2
+    second: {fileID: 2800000, guid: 5d4018e182f7c0b4a94a7e8a89228d06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 20
+    second: {fileID: 2800000, guid: 55216138749b3b04cb033624dfffb0c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 21
+    second: {fileID: 2800000, guid: 4345ee556b5c1dd4da969ec0b0a84e36, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 22
+    second: {fileID: 2800000, guid: 21d87cf82d53ee24c95c6f09b2badc15, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 23
+    second: {fileID: 2800000, guid: 5b1196a23abd4ad459d9f6f83ab9363d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 24
+    second: {fileID: 2800000, guid: 5f272a0ca0c1a514893e3e2f2f1d5a68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 25
+    second: {fileID: 2800000, guid: 33ac87ac6ea64294fb41d7f4d2aa69e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 26
+    second: {fileID: 2800000, guid: b041ced377834d24e9f3885ab61701c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 27
+    second: {fileID: 2800000, guid: d0d6a12d1ffe2044289525e26ebfac91, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 28
+    second: {fileID: 2800000, guid: b899fa8c6d64c4247ae6e00faa371700, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 29
+    second: {fileID: 2800000, guid: 3b35188891cc7884babba72949822482, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 3
+    second: {fileID: 2800000, guid: 1a08e83417023ce478040ee51dc0c542, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 30
+    second: {fileID: 2800000, guid: 43cabd91f39ff4b44915619ed784e294, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 31
+    second: {fileID: 2800000, guid: 9f52837d93d706d45a6bc747743a7bc5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 32
+    second: {fileID: 2800000, guid: 43781f043280b5b4d907c21fd37715f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 33
+    second: {fileID: 2800000, guid: abb4bf53be4a89742ba992a1af2a4092, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 34
+    second: {fileID: 2800000, guid: a851b521009f998448337674d908c7f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 35
+    second: {fileID: 2800000, guid: 964639c2212c2b348b7f297111f2fccb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 36
+    second: {fileID: 2800000, guid: c74ce3532d1481447b63f0cc84514b38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 37
+    second: {fileID: 2800000, guid: 43688d9c6c1cb044cbb6e0bec700be93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 38
+    second: {fileID: 2800000, guid: 2410f4ad5a7a5a940a0854327d93a92f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 39
+    second: {fileID: 2800000, guid: b640a384918310f4d97939c69f6b843d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 4
+    second: {fileID: 2800000, guid: 2645bc3a85e5f184cab01be861e6338b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 40
+    second: {fileID: 2800000, guid: 4a2deeaebcb400c40a45c32b94553c39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 41
+    second: {fileID: 2800000, guid: 54fd898bbf4b76545818b7f64623f9c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 42
+    second: {fileID: 2800000, guid: 39a044056d198ad438369cc21a155f43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 43
+    second: {fileID: 2800000, guid: ba5b335dcd364634caf8a9e80f407aef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 44
+    second: {fileID: 2800000, guid: c668a501352d10b458ddfdada826b220, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 45
+    second: {fileID: 2800000, guid: e9ae2b959dff4544fbdc2c0eb1a3d8fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 46
+    second: {fileID: 2800000, guid: 3de5c8c213fcbff47a575393e41ab52d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 47
+    second: {fileID: 2800000, guid: 14cd8c6b9aa64594e9f13691f4f9d2f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 48
+    second: {fileID: 2800000, guid: 0a1f4009da8dddf41bcac86896856a76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 49
+    second: {fileID: 2800000, guid: 66885fa1d98f1b34baaa2cea7aa057e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 5
+    second: {fileID: 2800000, guid: a9f4fd5e46cf1664f81d8ee9fb4763b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 50
+    second: {fileID: 2800000, guid: f1776aaae77f3964aad5a97a3b7347f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 51
+    second: {fileID: 2800000, guid: 80993e190e0d84c4fb73cb97ae3ac5d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 52
+    second: {fileID: 2800000, guid: 8267a0f327682d64a886ecfc421d8050, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 53
+    second: {fileID: 2800000, guid: 0f037b9eba40ca04fa636cd1750b3e82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 54
+    second: {fileID: 2800000, guid: 03a42c76bc2805f429abe35c9b5dfa16, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 55
+    second: {fileID: 2800000, guid: 0bd3a885fa85c64448aee69dc04406a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 56
+    second: {fileID: 2800000, guid: 3beafe176acc88c44af887529c188a82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 57
+    second: {fileID: 2800000, guid: bf4912e0c71260d4cbf5760a5d3dc740, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 58
+    second: {fileID: 2800000, guid: e72a46ec5932e5948918f1301b326b93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 59
+    second: {fileID: 2800000, guid: 9aef71c1bcf7a574fa3fae33f8fbe74d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 6
+    second: {fileID: 2800000, guid: 11ac46af1110ea74d9c48fa4a6328c0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 60
+    second: {fileID: 2800000, guid: 80f43516e20c29a43b2ffc930491542b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 61
+    second: {fileID: 2800000, guid: 6cc198ee760d1e142b75fbacc31e365f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 62
+    second: {fileID: 2800000, guid: 8347d42530248f349b9a354c5dc706df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 63
+    second: {fileID: 2800000, guid: 074c0a886e29dbf4b85176c17fb7326c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 64
+    second: {fileID: 2800000, guid: 4c5241a9e3075ce4fa861d8fd7b76ca6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 65
+    second: {fileID: 2800000, guid: 3d209b98aa8150f4c9f5303801cedbcb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 66
+    second: {fileID: 2800000, guid: 0695638b5d025a94db3521b70f77f3af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 67
+    second: {fileID: 2800000, guid: 9845d3c9f3c8f924b9f81dc6c2c665d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 68
+    second: {fileID: 2800000, guid: 535956cb381cc2e4bbc768e6e9910b51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 69
+    second: {fileID: 2800000, guid: 82511ec01a26fab4f8395384e7ef7a97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 7
+    second: {fileID: 2800000, guid: 61bad4c1603978d4b8a5c8e30c0a7731, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 70
+    second: {fileID: 2800000, guid: d6a3b451c24c4074e85c6ac586876222, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 8
+    second: {fileID: 2800000, guid: d5cd9447dd222e84f91f5e3eb187abe3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stylized rock 9
+    second: {fileID: 2800000, guid: 30c9bb4cda9c3ac4f8a4d347ddac8584, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
